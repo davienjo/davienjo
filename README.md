@@ -1,16 +1,43 @@
-## Hi there 👋
+# David Thairu — Frontend Developer 👋
 
-<!--
-**davienjo/davienjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, responsive, and scalable web applications using React.js and modern JavaScript.
 
-Here are some ideas to get you started:
+I specialize in UI engineering, transforming designs into functional, user-friendly interfaces with strong attention to detail, performance, and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Responsive UI Design
+- REST API Integration
+- Git & GitHub
+
+---
+
+## 🚀 What I Build
+- Responsive web applications
+- Dashboard interfaces
+- UI recreations of real-world products
+- Component-based React systems
+
+---
+
+## 📌 Featured Projects
+- Smart Barbershop Web App
+- Portfolio Website
+- Delivery App UI Recreation
+
+---
+
+## 🎯 Focus
+Building production-style frontend systems with strong UI/UX and scalable structure.
+
+---
+
+## 📫 Connect With Me
+- Portfolio: https://davienjo.github.io/David-s-Portfolio-1/
+- GitHub: https://github.com/davienjo
+- LinkedIn: https://www.linkedin.com/in/david-thairu-frontend/
+
