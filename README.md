@@ -28,6 +28,7 @@ I specialize in UI engineering, transforming designs into functional, user-frien
 - Smart Barbershop Web App
 - Portfolio Website
 - Delivery App UI Recreation
+- Gate One Medical Waste Solution
 
 ---
 
